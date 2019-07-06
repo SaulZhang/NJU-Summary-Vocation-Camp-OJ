@@ -33,7 +33,7 @@
 该样例中hit hot dot dog cog路径长度为5.
 数据范围：词典单词数<=20000，串长度<=5.
 [here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2018-1-B.cpp)
-- C.第三题:一台机器有ni张面值为ki的纸币，给定一个c，求小于等于c的一个最大金额，使得机器能恰好给出。数据范围：C<=100000，ni<=1000，ki<=1000，种类数<=10.
+- C.第三题:一台机器有ni张面值为ki的纸币，给定一个c，求小于等于c的一个最大金额，使得机器能恰好给出。数据范围：C<=100000，ni<=1000，ki<=1000，种类数<=10.[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2018-1-C.cpp)
 
 (南京市外高校)
 第一组
