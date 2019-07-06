@@ -3,23 +3,23 @@
 
 ### 2016
 
-- A.最大连续字段和
+- A.最大连续字段和[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2016A.cpp)
 
-- B.无向图最长单源路径
+- B.无向图最长单源路径[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2016B.cpp)
 
-- C.表示式求值：形如(3*2+3/5)+1*5
+- C.表示式求值：形如(3*2+3/5)+1*5[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2016C.cpp)
 
-- D.求树上最长的路径长度
+- D.求树上最长的路径长度[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2016D.cpp)
 
 ### 2017
 
-- A.给定一个n层的满二叉树，不存在的结点用-1表示，同时给定一个sum，问从根结点到达叶节点有哪些路径使得点权和刚好为sum。从左到右输出所有满足条件的路径。
+- A.给定一个n层的满二叉树，不存在的结点用-1表示，同时给定一个sum，问从根结点到达叶节点有哪些路径使得点权和刚好为sum。从左到右输出所有满足条件的路径。[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2017A.cpp)
 
-- B.给定n个非负的整数，每个数代表这个数可以跳跃的最远距离，同时每个数字之间的距离已知，问能不能从最左边的点跳到最右边
+- B.给定n个非负的整数，每个数代表这个数可以跳跃的最远距离，同时每个数字之间的距离已知，问能不能从最左边的点跳到最右边[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2017B.cpp)
 
-- C.给定由IF，THEN，ELSE，BEGIN，END构成的一组语句，判断该语句的嵌套结构是否符合语法规范
+- C.给定由IF，THEN，ELSE，BEGIN，END构成的一组语句，判断该语句的嵌套结构是否符合语法规范[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2017C.cpp)
 
-- D.给定一组数，问从给定的数组中选取3个数作为三角形的不同边，一共有多少中符合条件的选法
+- D.给定一组数，问从给定的数组中选取3个数作为三角形的不同边，一共有多少中符合条件的选法[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2017D.cpp)
 
 ### 2018
 
