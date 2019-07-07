@@ -52,6 +52,6 @@
 
 - A.给定正整数n（n≤40），从1到n中随机选择n-1个数，并将它们以随机顺序连接为字符串s，这意味着在1和n之间有一个缺失的数字。你能找到那个缺失的数字吗？（请注意在某些情况下答案不唯一，此时你只需要找到一个有效的答案。）<b>[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2018-3-A.cpp)</b>
 
-- B.动态规划(poj1018)[http://poj.org/problem?id=1018]<b>[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2018-3-B.cpp)</b>
+- B.动态规划[poj1018](http://poj.org/problem?id=1018)<b>[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2018-3-B.cpp)</b>
 
-- C.最大子矩阵问题(poj1050)[http://poj.org/problem?id=1050]<b>[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2018-3-C.cpp)</b>
+- C.最大子矩阵问题[poj1050](http://poj.org/problem?id=1050)<b>[here](https://github.com/SaulZhang/NJU-Summary-Vocation-Camp-OJ/blob/master/2018-3-C.cpp)</b>
