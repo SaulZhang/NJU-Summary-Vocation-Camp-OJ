@@ -1,5 +1,5 @@
 /*
-·Ö×é±³°üÎÊÌâ£º²ÉÓÃ¶ş½øÖÆ±àÂë½øĞĞÑ¹Ëõ
+å¤šé‡èƒŒåŒ…é—®é¢˜ï¼šé‡‡ç”¨äºŒè¿›åˆ¶ç¼–ç è¿›è¡Œå‹ç¼©
 */
 #include <iostream>
 #define N 10 + 5
@@ -22,7 +22,7 @@ int main()
             dp[i] = 0;
 
         for(int i=1;i<=n;i++){
-            for(int k=1;Num[i]-k>=0;k*=2){//¶ş½øÖÆ±àÂë
+            for(int k=1;Num[i]-k>=0;k*=2){//äºŒè¿›åˆ¶ç¼–ç 
                 for(int j=Cmax;j>=Val[i]*k;j--){
                     dp[j] = max(dp[j],dp[j-Val[i]*k]+Val[i]*k);
                 }
